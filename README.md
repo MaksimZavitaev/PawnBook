@@ -13,4 +13,4 @@
 
 Руководство поставляется в четырех форматах: `HTML`, `PDF`, `ePub`, `MOBI`.
 
-Также имеется репозиторий на [GitHub](http://)
+Также имеется репозиторий на [GitHub](https://github.com/MaximZavitaev/PawnBook)
